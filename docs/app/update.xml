@@ -1,0 +1,8 @@
+<dll version="1.0.0.1">
+    <!-- Your application will check for updates every (seconds) -->
+    <Hash>12342134234224safsdvdsbsbn</Hash>
+    <!-- All payload files are assumed to have this URI prefix. -->
+    <BaseUri>http://vlmauto.net/app/files/</BaseUri>
+    <!-- One or more files containing updates. -->
+    <Payload>mydll.bin</Payload>
+</Manifest>
