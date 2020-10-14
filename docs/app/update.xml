@@ -1,8 +1,19 @@
-<dll version="1.0.0.1">
+<update>
     <!-- Your application will check for updates every (seconds) -->
-    <Hash>011B38DF7143B66327215FAAEE36EAE1</Hash>
-    <!-- All payload files are assumed to have this URI prefix. -->
     <BaseUri>https://vlmauto.net/app/files/</BaseUri>
-    <!-- One or more files containing updates. -->
-    <Payload>mydll.bin</Payload>
-</dll>
+    <file name="vlsuper.dll">
+    	<version>1.0.0.1</version>
+	    <Hash>011B38DF7143B66327215FAAEE36EAE1</Hash>
+    	<Payload>mydll.bin</Payload>
+    </file>
+    <file name="VLSuper.exe">
+    	<version>20.0.0</version>
+	    <Hash>34D598DBC46E66438C5D7A643E039493</Hash>
+    	<Payload>mygui.bin</Payload>
+    </file>
+    <file name="VLSuperBot.exe">
+    	<version>1.0.0</version>
+	    <Hash>68BDFC5D878125E1CA3054304DFA58A5</Hash>
+    	<Payload>mybot.bin</Payload>
+    </file>
+</update>
