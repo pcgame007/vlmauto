@@ -1,7 +1,6 @@
 <update>
-    <!-- Your application will check for updates every (seconds) -->
     <BaseUri>http://vlmauto.net/app/files/</BaseUri>
-    <file name="vlsuper.dll" version="1.0.0.1" hash="011B38DF7143B66327215FAAEE36EAE1" payload="mydll.bin"></file>
-    <file name="VLSuper.exe" version="20.0.0" hash="34D598DBC46E66438C5D7A643E039493" payload="mygui.bin"></file>
-    <file name="VLSuperBot.exe" version="1.0.0" hash="68BDFC5D878125E1CA3054304DFA58A5" payload="mybot.bin"></file>
+    <file name="vlsuper.dll" version="1.0.0.1" hash="011B38DF7143B66327215FAAEE36EAE1" payload="vlsuper.dll.bin"></file>
+    <file name="VLSuper.exe" version="19.2.0" hash="34D598DBC46E66438C5D7A643E039493" payload="VLSuper.exe.bin"></file>
+    <file name="VLSuperBot.exe" version="1.0.0.1" hash="68BDFC5D878125E1CA3054304DFA58A5" payload="VLSuperBot.exe.bin"></file>
 </update>
