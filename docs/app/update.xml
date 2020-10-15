@@ -1,6 +1,6 @@
 <update>
     <!-- Your application will check for updates every (seconds) -->
-    <BaseUri>https://vlmauto.net/app/files/</BaseUri>
+    <BaseUri>http://vlmauto.net/app/files/</BaseUri>
     <file name="vlsuper.dll">
     	<version>1.0.0.1</version>
 	    <Hash>011B38DF7143B66327215FAAEE36EAE1</Hash>
