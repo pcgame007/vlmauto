@@ -1,0 +1,6 @@
+<update>
+    <BaseUri>http://vlmauto.net/app_vl1/files/</BaseUri>
+    <file name="vlsuper.dll" version="1.0.0.0" hash="3005DAAACEF948C1DFAF8D129C2C2872" payload="vlsuper.dll.bin"></file>
+    <file name="VL1-Super.exe" version="1.0.0" hash="C0890A4AF5DD00CE1B025C74FF0C68E6" payload="VL1-Super.exe.bin"></file>
+    <file name="VL1-SuperBot.exe" version="1.0.0.0" hash="A74A5A8E70A3BD576421EFE5A688B606" payload="VL1-SuperBot.exe.bin"></file>
+</update>
