@@ -1,7 +1,7 @@
 <update>
     <BaseUri>http://vlmauto.net/app/files/</BaseUri>
     <file name="vlsuper.dll" version="3.3.0.0" hash="B97B575D6849D704972A82FC8281616C" payload="vlsuper.dll.bin"></file>
-    <file name="VLSuper.exe" version="28.0.0" hash="06DBFB034A1EC6DC4DB3C48E4457E2BE" payload="VLSuper.exe.bin"></file>
+    <file name="VLSuper.exe" version="28.1.0" hash="F9AA229C47C00E5E4690EE70F893B849" payload="VLSuper.exe.bin"></file>
     <file name="VLSuperBot.exe" version="3.6.0.0" hash="B70D8736ADB29C77B07E82F9030DE704" payload="VLSuperBot.exe.bin"></file>
     <file name="VLSuper_HuongDan.pdf" version="0.0.0.0" hash="128c885e277d697466cbcd862586f881" payload="VLSuper_HuongDan.pdf.bin"></file>
 </update>
