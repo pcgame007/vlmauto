@@ -226,8 +226,8 @@ fieldset[disabled] .btn-xl.active {
   }
 }
 header {
-  #background-image: url('../img/header-bg.jpg');
-  background-image: url('https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=400000&url=http://vlmauto.net/img/header-bg.jpg');
+  background-image: url('../img/header-bg.jpg');
+  #background-image: url('https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=400000&url=http://vlmauto.net/img/header-bg.jpg');
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
